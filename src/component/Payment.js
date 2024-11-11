@@ -51,7 +51,15 @@ const PaymentForm = () => {
 			}}
 		>
 			<h2 style={{ color: '#333', marginBottom: '20px' }}>Make a Payment</h2>
-			<form onSubmit={handlePayment}>
+			<form
+				onSubmit={handlePayment}
+				style={{
+					width: '100%',
+					justifyContent: 'center',
+					alignItems: 'center',
+					padding: '6px',
+				}}
+			>
 				<input
 					type='number'
 					placeholder='Amount'
