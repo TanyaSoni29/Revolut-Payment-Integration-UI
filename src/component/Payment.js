@@ -70,7 +70,7 @@ const PaymentForm = () => {
 						width: '100%',
 						padding: '10px',
 						marginBottom: '15px',
-						borderRadius: '4px',
+						borderRadius: '6px',
 						border: '1px solid #ccc',
 						fontSize: '16px',
 					}}
@@ -85,7 +85,7 @@ const PaymentForm = () => {
 						width: '100%',
 						padding: '10px',
 						marginBottom: '15px',
-						borderRadius: '4px',
+						borderRadius: '6px',
 						border: '1px solid #ccc',
 						fontSize: '16px',
 					}}
@@ -97,7 +97,7 @@ const PaymentForm = () => {
 						width: '100%',
 						padding: '10px',
 						marginBottom: '20px',
-						borderRadius: '4px',
+						borderRadius: '6px',
 						border: '1px solid #ccc',
 						fontSize: '16px',
 					}}
@@ -115,7 +115,7 @@ const PaymentForm = () => {
 						width: '100%',
 						padding: '12px',
 						border: 'none',
-						borderRadius: '4px',
+						borderRadius: '6px',
 						backgroundColor: '#4CAF50',
 						color: '#fff',
 						fontSize: '16px',
